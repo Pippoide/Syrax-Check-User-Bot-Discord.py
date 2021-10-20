@@ -22,6 +22,6 @@ così ho creato questo bot che tramite un id univoco invia i dati al database pe
 3. andare sulle impostazioni ![immagine](https://user-images.githubusercontent.com/76634450/138183666-1915f5a5-d62b-4d9f-90c3-9fa1a67574b6.png)
 4. premere su attiva il tuo codice
 5. andare sul server [discord syrax](https://discord.io/SyraxCommunity)  
-6. scrivere nella chat verifica il comando >s!verifica codice ![immagine](https://user-images.githubusercontent.com/76634450/138183993-9914799f-51ec-445c-8fab-4515fed6a9e1.png)
+6. scrivere nella chat verifica il comando > s!verifica codice ![immagine](https://user-images.githubusercontent.com/76634450/138183993-9914799f-51ec-445c-8fab-4515fed6a9e1.png)
 
 7. andare sul forum fare il logut e riloggarsi tramite login (lo so è un po' macchinoso ma ci lavorerò sù)
