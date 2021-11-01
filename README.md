@@ -3,7 +3,7 @@
 il bot nasce con lo scopo di poter caricare il proprio nome utente,tag e foto profilo al forum tramite un comando al bot
 sono coscente che ci sarebbe l'api di discord ma volevo fare qualcosa di strano e che mi facesse provare il python
 così ho creato questo bot che tramite un id univoco invia i dati al database per il momento è una specie di beta il bot
-* sviullupatori
+* svillupatori
   * [@Pippoide](https://github.com/Pippoide)
 * social
   * [discord syrax](https://discord.io/SyraxCommunity)  
